@@ -1,0 +1,1346 @@
+tim	brock:6 
+face:6 
+pardon:6 
+removal	silent	assassin	cellar	tsa:6 
+creative:6 
+fli:6 
+sense:6 
+tseng:6 
+exe:6 
+meet:6 
+upgrade:6 
+go32:6 
+ncsu:6 
+psu:6 
+filename:6 
+equal:6 
+4000:6 
+anywhere:6 
+isa:6 
+dir:6 
+cb:6 
+duke:6 
+rumours	fact	supposedly	especially	released	motorola	1993apr15	hands	mcmains	unt	68070	considering	68010	68060	680x0	lineup	wow:6 
+mot:6 
+lyall:6 
+login:6 
+melbourne:6 
+circles:6 
+corel:6 
+fancy:6 
+sold:6 
+1993apr14:6 
+recall:6 
+learning:6 
+djgpp:6 
+doubt:6 
+self:6 
+late:6 
+1991:6 
+processor	depth	nicely:6 
+fps:6 
+expanded:6 
+1993apr16:6 
+roll:6 
+talk:6 
+supplied:6 
+smooth:6 
+rule:6 
+properly:6 
+playing:6 
+moving:6 
+involved:6 
+frequently:6 
+fee:6 
+entry:6 
+effects:6 
+basis:6 
+wisc:6 
+wait:6 
+unm:6 
+ucsd:6 
+typing:6 
+turns:6 
+table:6 
+states:6 
+sequences:6 
+sell:6 
+prompt:6 
+pre:6 
+popular:6 
+depth	movies	played:6 
+computers	supported	personal:6 
+owner:6 
+orientation:6 
+operations:6 
+older:6 
+notes:6 
+networks:6 
+measurement:6 
+magazines:6 
+plain	lawrence:6 
+united	kingdom:6 
+joe:6 
+items:6 
+industry:6 
+imho:6 
+font:6 
+federal:6 
+document:6 
+april	beta:6 
+availability:6 
+media	arts:6 
+announced:6 
+description	header	among:6 
+accept:6 
+9000:6 
+88:6 
+200	600:6 
+55:6 
+500:6 
+137:6 
+1000:6 
+patterns:6 
+inst:6 
+grid:6 
+forms:6 
+ansi:6 
+jp:6 
+receive:6 
+polytechnic:6 
+megs:6 
+modify:6 
+buffer:6 
+pathology:6 
+triangulation:6 
+delaunay:6 
+installed:6 
+yours:6 
+pbmplus:6 
+george:6 
+low	editing:6 
+56:6 
+harris:6 
+sending:6 
+bought:6 
+muenchen:6 
+mpg:6 
+ian:6 
+1988:6 
+mexico:6 
+hell:6 
+plan:6 
+normals:6 
+equations:6 
+pic:6 
+6000	rs:6 
+doug:6 
+vendors:6 
+vendor:6 
+operation:6 
+providing:6 
+khoros:6 
+eisa:6 
+1024x768:6 
+reserve:6 
+paint:6 
+triangles:6 
+oriented:6 
+andreas:6 
+submit:6 
+structures:6 
+presentation:6 
+computational:6 
+abstract:6 
+tracer:6 
+unique:6 
+rates:6 
+primarily:6 
+multiple:6 
+limit:6 
+installation:6 
+improved:6 
+functionality:6 
+enter:6 
+jason:6 
+oh	cleveland:6 
+216:6 
+character:6 
+heavy:6 
+nine:6 
+extract:6 
+hole:6 
+bill:6 
+axis:6 
+appears:6 
+removed:6 
+processors:6 
+prefer:6 
+light:6 
+languages:6 
+hill:6 
+happen:6 
+simon	bull	hemel	scrowe	crowe:6 
+completely:6 
+caltech:6 
+bound:6 
+announcement:6 
+aliasing:6 
+89:6 
+1985:6 
+improve:6 
+fat:6 
+anymore:6 
+remove:6 
+projection:6 
+47:6 
+internal:6 
+repeat:6 
+formed:6 
+compute:6 
+communication:6 
+integer:6 
+hundreds:6 
+competing:6 
+numerical:6 
+missed:6 
+fr	imag:6 
+glad:6 
+ultra:6 
+edward	ednobles	nobles	oren	ortn	sacam:6 
+covers:6 
+clear:6 
+potential:6 
+laboratories:6 
+games:6 
+smith	joseph	orourke	rourke	sophia:6 
+cso	ux4	adamski	lucas	osprey:6 
+x11r4:6 
+specified:6 
+ppm:6 
+care:6 
+automatically:6 
+preferred:6 
+exactly	solution	checked	edward	geometry	fitting	gems	loss	bolson	boy	carson	straightforward	trivial	immediately	embarassing	farin	mercy:6 
+206:6 
+therefore:6 
+acceptable:6 
+technische:6 
+gnu:6 
+eicn	etna:6 
+variable:6 
+twice:6 
+rs6000:6 
+core:6 
+compiler:6 
+turner:6 
+louis:6 
+onto:6 
+grasp:6 
+daniel:6 
+gnuplot:6 
+curve	curves	bezier	calculating	ferdinand	oeinck	waterland	wlink	cusp	detecting:6 
+geometric	147	characterization:6 
+163:6 
+kih	joachim	lous:6 
+deep:6 
+significance	philosophical	douglas	adams:6 
+preferably:6 
+preston:6 
+powerful:6 
+job:6 
+import:6 
+flexible:6 
+environments:6 
+app:6 
+unibe:6 
+greetings:6 
+announce:6 
+offset:6 
+wang:6 
+million:6 
+textures:6 
+triangle:6 
+renderer:6 
+13h:6 
+slower:6 
+mips:6 
+rumours	compact	centris	codec:6 
+cambridge:6 
+rumours	processor	centris	30fps:6 
+vancouver:6 
+selling:6 
+mp:6 
+sloan:6 
+exposure:6 
+csc:6 
+campbell:6 
+alabama:6 
+maryland:6 
+intensity:6 
+stay:6 
+patch:6 
+loop:6 
+cool:6 
+mi:7 
+bios:7 
+bring:7 
+everybody:7 
+opposite:7 
+tim	tmc	brocku	ciceran	spartan:7 
+brain:7 
+mega:7 
+trace:7 
+translation:7 
+square:7 
+uu	510:6 
+against	510:6 
+release	510:6 
+rumours	supposedly	1993apr15	mcmains	unt	68070	68010	variation:6 
+sig:7 
+rumours	supposedly	1993apr15	mcmains	unt	68070	11632	164940	mercury	68010:6 
+dan:7 
+valid:7 
+doc:7 
+gopher:7 
+quarter:7 
+rochester:7 
+rumours	fact	1993apr15	mcmains	unt	11632	164940	mercury:6 
+increased:7 
+guys:7 
+guy:7 
+650:7 
+grayscale:7 
+weeks:7 
+tsr:7 
+terms:7 
+selection:7 
+scrolling:7 
+happens:7 
+fix:7 
+entirely:7 
+described:7 
+crash:7 
+count:7 
+bet:7 
+apparently:7 
+particularly:7 
+artist:7 
+anti:7 
+52:7 
+36:7 
+midway	uchicago:7 
+qc:7 
+compare:7 
+updated:7 
+transfer:7 
+testing:7 
+side:7 
+searching:7 
+expect	plain	risc:6 
+position:7 
+pasadena:7 
+offers:7 
+description	changes	readme	modified:6 
+libraries	top	fully	modified:6 
+key:7 
+jpl:7 
+believe	instance:6 
+imagery:7 
+huge:7 
+god:7 
+field:7 
+educational:7 
+default:7 
+crimson:7 
+compuserve:7 
+community:7 
+central:7 
+animations:7 
+90:7 
+800:7 
+80:7 
+312:7 
+2nd:7 
+feature:7 
+compressed:7 
+telling:7 
+purposes:7 
+originally:7 
+behind:7 
+areas:7 
+286:7 
+mostly:7 
+terminal:7 
+root:7 
+knew:7 
+comments	comparison:6 
+changed:7 
+clip:7 
+connect:7 
+aren:7 
+somebody:7 
+plots:7 
+mentor:7 
+manipulate:7 
+illustrator:7 
+rigel:7 
+tx:7 
+sufficient:7 
+store:7 
+layout:7 
+film:7 
+mailing:7 
+ability:7 
+68:7 
+telephone:7 
+proceedings:7 
+length:7 
+considered:7 
+301:7 
+wants:7 
+separate:7 
+prove:7 
+generic:7 
+event:7 
+decide:7 
+choose:7 
+molecular:7 
+florida:7 
+parts:7 
+characters:7 
+ufl:7 
+six:7 
+select:7 
+saving:7 
+recommend	offer	removal	shading	building	recommendations	carpenter	tasks	rudimentry:6 
+manipulating:7 
+independent:7 
+follows:7 
+dimensional:7 
+03:7 
+yourself:7 
+topic:7 
+relevant:7 
+listed:7 
+days:7 
+cray:7 
+bell:7 
+differ:7 
+apply:7 
+rotation:7 
+netcom:7 
+intersecting:7 
+implement:7 
+calculations:7 
+sue:7 
+build	satellite:6 
+company	generated	satellite:6 
+printing:7 
+copyrighted:7 
+copyright:7 
+facility:7 
+physics:7 
+rahul	bryan	bryanw	woodworth:7 
+wasn:7 
+lost:7 
+rahul	a2i	bolero:7 
+1993apr17:7 
+ati:7 
+computers	kubota:6 
+guest:7 
+1993apr20:7 
+wide:7 
+printed:7 
+mathematics:7 
+fit:7 
+max:7 
+exactly	solution	edward	fitting	bolson	carson	coplanar:6 
+effect:7 
+chips:7 
+raytracer:7 
+std:7 
+micro:7 
+england:7 
+rick:7 
+mapped:7 
+living:7 
+whose:7 
+sdsu:7 
+plot:7 
+office:7 
+san	619:6 
+curve	curves	bezier	cubic	ferdinand	oeinck	waterland	wlink:6 
+parametric:7 
+significance	philosophical	galki	toppoint	ulrich:7 
+according:7 
+pass:7 
+poor:7 
+minute:7 
+finished:7 
+84:7 
+associated:7 
+qt:7 
+pay:7 
+dithering:7 
+bc:7 
+seconds:7 
+precision:7 
+tv:7 
+park:7 
+solve:7 
+body:7 
+person:8 
+feel	personally	tdawson	forum	herringshaw	learn	proposed	favor	concerning	curious	posts	discussing	agree	awful	convenience	wate	srvr1	1quvdoinn3e7:6 
+marc:8 
+business:8 
+modes	paradise:6 
+uni:8 
+fr	france:6 
+shipping:8 
+mcs:8 
+boards:8 
+visible:8 
+against	uu:6 
+release	uu:6 
+sample:8 
+differences:8 
+rob:8 
+43:8 
+andre:8 
+willing:8 
+unc:8 
+third:8 
+technologies:8 
+targa:8 
+tape:8 
+solutions:8 
+sequence:8 
+scan:8 
+return:8 
+remote:8 
+192	readme:6 
+supported	readme:6 
+raw:8 
+range:8 
+produce:8 
+password:8 
+mathematical:8 
+lower:8 
+iris	indigo:6 
+feel	indigo:6 
+impulse:8 
+1989	generation:6 
+description	changes	supported	fully:6 
+binary	forget:7 
+getting	supported	five:6 
+digitize	digitized:6 
+notice	digitized:6 
+depth	expect	plain	digitized:6 
+asked	depth	digitized:6 
+couldn:8 
+convex:8 
+codes:8 
+binaries:8 
+bank:8 
+bands:8 
+45:8 
+standards:8 
+zealand:8 
+copies:8 
+visual:8 
+asked	him:7 
+cut:8 
+dxf:8 
+portable:8 
+phigs:8 
+lib:8 
+paul:8 
+expensive:8 
+charles	progress	boesel	cboesel:6 
+impressed:8 
+directories:8 
+virginia:8 
+capability:8 
+sales:8 
+widely:8 
+regular	organizations:6 
+authors:8 
+christopher:8 
+servers:8 
+avoid:8 
+materials:8 
+lewis:8 
+contour:8 
+specific	misc:6 
+published:8 
+away:8 
+assume:8 
+single:8 
+resources:8 
+perspective:8 
+mar:8 
+short	mainly:6 
+express:8 
+docs:8 
+communications:8 
+semi:8 
+longer:8 
+discussion:8 
+discussed:8 
+37:8 
+129	201:6 
+within	201:6 
+rene	blade	renew	stack	tue	urc	walter:8 
+unknown:8 
+scanner:8 
+errors:8 
+notice	digitize:6 
+shouldn:8 
+planes:8 
+48:8 
+unocal:8 
+took	hours:6 
+storage:8 
+switch:8 
+rahul	gifs	bryanw:6 
+mention:8 
+stein:8 
+trident:8 
+sent	exchange:6 
+wayne:8 
+sparcstation:8 
+cheap	modules:6 
+bug	modules:6 
+486	modules:6 
+scanned:8 
+ruu:8 
+ames	arc:7 
+soul:8 
+plotting:8 
+1989	pp	vol:6 
+po:8 
+geometric	1989	calculating:6 
+bezier	1989	calculating:6 
+life	significance	philosophical	everything	universe:6 
+significant:8 
+conference:8 
+spent:8 
+acs:8 
+wuarchive	wustl:8 
+toronto:8 
+assembly:8 
+320x200:8 
+uci:8 
+service:8 
+saying:8 
+obviously:8 
+difference:8 
+columbia:8 
+jon:8 
+birmingham:8 
+signal:8 
+ntsc:8 
+gray	levels:6 
+grey:8 
+filter:8 
+appear:8 
+rectangular:8 
+option:9 
+rumours	supposedly	vnet	cpu	hernandez	muchado	rchland	mcmains	unt	68070:6 
+chip:9 
+rumours	rate	vnet	cpu	hernandez	muchado	rchland	mcmains	unt:6 
+rumours	vnet	cpu	1993apr15	hernandez	muchado	rchland	mcmains	unt:6 
+rumours	fact	vnet	cpu	hernandez	muchado	rchland	mcmains	unt:6 
+illinois	cso	urbana:8 
+register:9 
+path:9 
+newer:9 
+latest:9 
+industrial:9 
+extra:9 
+earlier:9 
+common	dark:6 
+almost	dark:6 
+across	spatial:6 
+recommend	offer	removal	shading	recommendations	carpenter	boeing	bcstec	rgc3679:6 
+necessary:9 
+cube:9 
+41	vax	vms:6 
+200	mouse	toolkit:6 
+editor	tested:7 
+tech:9 
+spectrum:9 
+comments	review:7 
+415	mountain:6 
+maps:9 
+half:9 
+graph:9 
+export:9 
+east:9 
+dynamic:9 
+andrew:9 
+manager	advanced:6 
+techniques	advanced:6 
+series	415:6 
+iris	415:6 
+graphic	x11:6 
+texas	tamu:6 
+road:9 
+quadra:9 
+close:9 
+luck:9 
+70:9 
+super:9 
+models:9 
+ann	arbor	michigan:8 
+collection:9 
+methods:9 
+wa:9 
+finding:9 
+usual:9 
+na:9 
+asked	addition:6 
+edit:9 
+51:9 
+exact:9 
+suite:9 
+sys:9 
+sounds:9 
+morphing:9 
+architecture:9 
+received:9 
+pro	progress:6 
+presentations:9 
+types	04:6 
+along	04:6 
+apr	04:6 
+moment:9 
+located:9 
+top	header	extended:6 
+extension	extended:6 
+add	changes	supported	extended:6 
+manual	extended:6 
+within	extended:6 
+csd:9 
+money	spend:6 
+ascii:9 
+human	vs:6 
+turbo:9 
+300:9 
+word:9 
+responses:9 
+nor:9 
+wuarchive	mirrors:6 
+short	md:6 
+implemented:9 
+human	eye:7 
+arbitrary:9 
+press:9 
+permission:9 
+newsgroups:9 
+isbn:9 
+ee:9 
+needs	open	regarding:6 
+floppy:9 
+suspect:9 
+entire:9 
+creates:9 
+thinking:9 
+getting	equipment:6 
+base:9 
+man	generated	build:6 
+description	direct:6 
+readers:9 
+top	left:6 
+jeff:9 
+vnet	320	hernandez	muchado	rchland:6 
+rumours	vnet	sprites	hernandez	muchado	rchland:6 
+rumours	vnet	expect	hernandez	muchado	rchland:6 
+issue	magazine:7 
+75:9 
+ma:9 
+netherlands:9 
+advantage:9 
+38:9 
+seattle:9 
+lots:9 
+companies:9 
+become:9 
+informatik:9 
+uunet:9 
+added:9 
+movie:9 
+class:9 
+watson:9 
+san	diego:8 
+tony:9 
+disclaimer	necessarily	poster	views	represents:7 
+july:9 
+ken:9 
+specification:9 
+effort:9 
+student:9 
+professional:9 
+ohio:9 
+traced:9 
+scenes:9 
+fonts:9 
+williams:9 
+talking	movies:6 
+processor	rate	movies:7 
+mhz:9 
+flat:9 
+rate	clock:6 
+vr:9 
+mike:9 
+station	hall:6 
+certain:9 
+individual:9 
+near:10 
+graphic	workshop:6 
+advice:10 
+rate	320:6 
+200	320:7 
+today:10 
+step:10 
+results:10 
+converted:10 
+worth:10 
+variety:10 
+besides	together:6 
+once	together:6 
+open	together:6 
+suggest:10 
+reasonable:10 
+description	microsoft:6 
+medical:10 
+jim:10 
+manager	iris:6 
+times	iris:6 
+compile:10 
+drive	byte:6 
+directly	60:6 
+low	60:6 
+top	60:7 
+92	192:6 
+times	192:6 
+su:10 
+interest	basic	fortran:6 
+stored:10 
+3ds:10 
+ones:10 
+v2	01:6 
+asked	claim:6 
+welcome:10 
+processor	rate	capture:6 
+640x480:10 
+switzerland:10 
+costs:10 
+alone	stand:8 
+basic	wireframe:6 
+render:10 
+management:10 
+grant:10 
+development:10 
+49:10 
+four	division:7 
+taking:10 
+names:10 
+cause:10 
+show:10 
+jpg:10 
+approach	highly:6 
+early	highly:6 
+easily	complex:6 
+company	complex:6 
+enjoy:10 
+recommend	building	bob:6 
+recent:10 
+raytracing:10 
+piece:10 
+papers:10 
+outside:10 
+outputs:10 
+eric:10 
+difficult:10 
+contain:10 
+early	approach:6 
+unless:10 
+open	situation:6 
+ok:10 
+kevin:10 
+early	notice:6 
+rate	notice:6 
+sprites	truly:6 
+fact	released	cpu	truly:6 
+supposedly	cpu	truly:6 
+contains:10 
+lee:10 
+33	61:6 
+150:10 
+error:10 
+correct	exists:6 
+320x200x256:10 
+reason:10 
+print:10 
+define	gems:6 
+processor	play:7 
+local	bus:6 
+west:10 
+motif:10 
+ltd:10 
+okay:10 
+within	simon:6 
+fractal:10 
+graphical:10 
+price	options:6 
+short	options:6 
+minutes:10 
+mine:10 
+ram	amount:6 
+serious:10 
+april	editor:6 
+angeles	los	caspian	southern	yeh	zhenghao	zyeh:7 
+rom:10 
+et:10 
+kenneth:10 
+linear:10 
+eng:10 
+somewhere:10 
+background:10 
+drive	temp:7 
+electronic:11 
+consider:11 
+fact	cpu	motorola:6 
+final:11 
+scott:11 
+responsible	opinion:6 
+anyway	none:6 
+top	none:6 
+open	none:6 
+figure:11 
+extension	header:6 
+basic	header:6 
+except:11 
+creating:11 
+low	000:6 
+200	000:7 
+1992:11 
+recommend	pascal	boeing:6 
+vertices:11 
+recommend	cost:6 
+literature:11 
+33	vision:6 
+specifically:11 
+normal:11 
+implementation:11 
+devices:11 
+open	reads:6 
+types	present:6 
+april	present:6 
+voice	present:7 
+purpose	addresses:6 
+types	addresses:6 
+specific	addresses:6 
+interest	addresses:6 
+65:11 
+supported	responsible	understanding:6 
+computers	understanding:6 
+respond:11 
+basically:11 
+modeling:11 
+alt:11 
+shape:11 
+recommend	pascal	carpenter:6 
+nearly:11 
+sets	ways:6 
+sets	resulting:6 
+exactly	resulting:6 
+against	resulting:7 
+converts:11 
+knowledge:11 
+directly	manager:6 
+frames:11 
+man	soon:6 
+odd:11 
+remember:11 
+stupid	bryan:8 
+speedstar	diamond:6 
+fractals:11 
+berkeley:11 
+started:11 
+provided:11 
+wouldn:11 
+brian:11 
+room:11 
+iff:11 
+mapping	texture:7 
+povray:11 
+vector:11 
+cross:11 
+curve	curves	bezier	1989:6 
+geometric	bezier	1989:6 
+significance	philosophical	guide:6 
+usually:11 
+significance	philosophical	nova	allen	spec:6 
+34:11 
+share:11 
+stephen:11 
+expect	talking:6 
+processor	talking:6 
+asked	talking:6 
+spot:11 
+friend:11 
+response:11 
+city:11 
+market:12 
+previous:12 
+obtain:12 
+issues:12 
+chicago:12 
+interest	techniques:6 
+drive	places:7 
+compatible:12 
+early	plain:6 
+expect	cpu	plain:6 
+trouble	plain:6 
+asked	expect	plain:6 
+v1:12 
+shelley:12 
+experience:12 
+feel	personally	tdawson	forum	herringshaw	learn	proposed	favor	concerning	curious	posts	discussing	daemon	awful	convenience	wate:7 
+power:12 
+long	regular:6 
+getting	human	ready:6 
+ever:12 
+complicated:12 
+western:12 
+replies:12 
+oz:12 
+generate:12 
+control:12 
+possibly:12 
+within	intersection:6 
+cpu	early:6 
+saw:12 
+changes	mouse:6 
+happy	excellent:6 
+recommend	excellent:6 
+distance:12 
+quick:12 
+sound:12 
+capabilities:12 
+later	binary:6 
+specific	binary:6 
+along	binary:6 
+everything	binary:6 
+times	binary:6 
+life	binary:6 
+until:12 
+starting:12 
+bugs	street:6 
+cheap	client:6 
+bugs	cheap:6 
+white:12 
+palette:12 
+direction:12 
+44:12 
+bytes:12 
+goes:12 
+human	designed:6 
+technique:12 
+everyone:12 
+pointers:12 
+top	bottom:6 
+game:12 
+showing	cpu:6 
+processor	cpu:6 
+fact	expect	cpu:6 
+fact	supposedly	cpu:6 
+fact	rate	cpu:6 
+processor	rate	showing:6 
+fact	showing:6 
+colour:12 
+plus	gray:6 
+getting	gray:6 
+64	gray:7 
+along	area:6 
+slow:13 
+four	limited:6 
+basic	limited:6 
+description	limited:6 
+particular	directly:6 
+top	directly:6 
+low	directly:6 
+matter:13 
+port:13 
+boxes:13 
+human	home	workstation:6 
+getting	workstation:6 
+often:13 
+short	compiled:6 
+load	supported:6 
+common	supported:6 
+needs	supported:6 
+easily	types	supported:6 
+open	easily	supported:6 
+types	platform:6 
+below	platform:6 
+isn:13 
+centre:13 
+description	online:6 
+services	online:7 
+april	voice:6 
+says:13 
+within	command:6 
+happy	choice:6 
+upon:13 
+leave:13 
+5000:13 
+manual	structure:6 
+parameters:13 
+laboratory:13 
+hand:13 
+guess:13 
+love:13 
+expect	mentioned:6 
+motion	expect:6 
+below	less:6 
+description	less:6 
+instead:13 
+drive	down:6 
+within	down:6 
+short	down:6 
+converter:13 
+richard:13 
+put:13 
+references:13 
+corp	ny:6 
+geometric	curves:6 
+finally:13 
+words	load:6 
+certainly:13 
+39:13 
+geometric	acm:7 
+low	basic	across:6 
+open	top	across:6 
+times	across:6 
+ps:13 
+basic	types	plus:6 
+description	plus:6 
+al:13 
+whether	inside:6 
+geometric	curve:6 
+utility:13 
+unit:13 
+created	tga:6 
+again:14 
+date	higher:6 
+included:14 
+pages:14 
+idea:14 
+pcx	bmp:7 
+helpful:14 
+surfaces:14 
+description	required:6 
+numbers:14 
+types	four:7 
+below	types:6 
+specific	types:6 
+short	april	types:6 
+long	types:6 
+open	types:6 
+sent	april	types:6 
+add	easily:6 
+comments	easily:6 
+libraries	easily:6 
+specific	easily:7 
+move	changes:6 
+main	changes:6 
+description	short	below	changes:6 
+human	changes:6 
+29:14 
+add	move:6 
+allow	move:6 
+description	move:6 
+top	move:7 
+recommend	pascal	shading:6 
+price	manual:6 
+top	manual:6 
+human	manual:6 
+easier:14 
+parallel:14 
+major:14 
+hear:14 
+oak:14 
+media	multimedia:6 
+labs:14 
+international:14 
+van:14 
+ie:14 
+tom:14 
+adobe	geometric:6 
+makes:14 
+suggestions	significance	philosophical	came:7 
+asked	trouble:6 
+months:14 
+rate	depth:6 
+fill:14 
+dave:14 
+release	against:6 
+man	took:7 
+monitor:14 
+displaying:14 
+define	math:6 
+human	common:7 
+germany:15 
+articles:15 
+perhaps:15 
+products:15 
+apr	gmt:12 
+unfortunately:15 
+libraries	drive	add:6 
+company	design:6 
+computers	design:7 
+otherwise:15 
+sent	os:6 
+short	os:6 
+myself:15 
+netters:15 
+drive	later:6 
+description	short	later:6 
+within	date:6 
+apr	date:6 
+feel	date:6 
+long	april:6 
+open	april:6 
+exactly	adobe:6 
+originator:15 
+looked:15 
+title:15 
+sci	york:6 
+bitnet	york:6 
+feel	below:6 
+bug	bugs:6 
+needs	comments	bugs:6 
+486	bugs:7 
+open	bug:6 
+386	486:7 
+always:15 
+location:15 
+thanx:15 
+fact	poster:6 
+won:15 
+defined:15 
+once	whole:6 
+28:15 
+haven:16 
+rate	supposedly:6 
+require:16 
+short	sent:6 
+release	sent:8 
+computers	specific:6 
+dr	specific:6 
+interest	specific:6 
+cannot:16 
+sort	once:7 
+open	once:7 
+turn:16 
+corporation:16 
+35:16 
+within	determine:8 
+fact	keep:6 
+short	keep:6 
+open	keep:6 
+needs	keep:6 
+fairly:16 
+gives:16 
+recommend	price:6 
+nothing:16 
+dr	computers:7 
+thought:16 
+takes:16 
+open	deal:7 
+within	mind:6 
+open	mind:6 
+although:16 
+rgb:17 
+ontario:17 
+regards:17 
+whatever:17 
+basic	happy:6 
+personally	asked:7 
+31:17 
+needs	test:6 
+comments	test:7 
+hard	basic:6 
+recommend	basic:6 
+description	basic:6 
+explain:17 
+important:17 
+rumours	motion:9 
+hard	future:6 
+release	future:7 
+short	helps:6 
+simply:17 
+low	looks:6 
+top	seem:6 
+human	seem:6 
+within	33:6 
+pl8:17 
+believe	fact:6 
+1993apr19:17 
+within	whether:6 
+long	whether:6 
+open	couple:7 
+low	ago:6 
+sciences:17 
+pd:17 
+opinions:18 
+mean:18 
+low	200:6 
+feel	north:6 
+interesting:18 
+man	company:6 
+386	top:6 
+low	top:6 
+description	top:6 
+libraries	comments:6 
+27	comments:6 
+pl9:19 
+recommend	libraries:6 
+low	libraries:7 
+getting	almost:7 
+needs	believe:6 
+long	believe:7 
+getting	believe:7 
+due:19 
+short	within:6 
+open	within:6 
+description	within:7 
+define	solution:8 
+appreciate:19 
+short	times:6 
+long	times:6 
+open	times:6 
+life	times:6 
+recommend	low:6 
+recommend	hard:6 
+recently	hard:6 
+comes:20 
+long	short:6 
+apr	short:6 
+26:20 
+feel	description:6 
+open	long:6 
+needs	long:6 
+getting	open:6 
+knows:21 
+wondering:21 
+apr	personally:6 
+feel	apr:8 
+didn:22 
+wrong:23 
+tried:24 
+ideas:24 
